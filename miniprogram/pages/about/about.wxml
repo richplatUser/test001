@@ -1,0 +1,3 @@
+<!--miniprogram/pages/about/about.wxml-->
+<text class="title">miniprogram/pages/about/about.wxml hell word</text>
+<button size="mini">按钮</button>
