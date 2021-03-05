@@ -1,3 +1,6 @@
 <!--miniprogram/pages/about/about.wxml-->
 <text class="title">miniprogram/pages/about/about.wxml hell word</text>
 <button size="mini">按钮</button>
+
+<view>3.知识点3</view>
+<view>关于知识点3的详细内容</view>
